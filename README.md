@@ -29,15 +29,13 @@ to activate the .venv:
 
 open the folder in the VS code terminal and type .\venv\Scripts\activate
 
-IF error: Impossible de charger le fichier ~\.venv\Scripts\Activate.ps1, car l'exécution de scripts est 
-
-désactivée sur ce système.
+IF error: Impossible de charger le fichier ~\.venv\Scripts\Activate.ps1, car l'exécution de scripts est désactivée sur ce système.
 
 THEN type Set-ExecutionPolicy Unrestricted -Scope Process
 
 THEN redo .\venv\Scripts\activate
 
-source:
+sources:
 
 https://stackoverflow.com/questions/54106071/how-can-i-set-up-a-virtual-environment-for-python-in-visual-studio-
 code
