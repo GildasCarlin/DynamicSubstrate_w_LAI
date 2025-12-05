@@ -1,7 +1,4 @@
-Required 
-
-
-python packages:
+Required python packages:
 -------------------------------------------------------
 
 -- numpy
