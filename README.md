@@ -11,9 +11,7 @@ Required python packages:
 
 -- setuptools
  (not required in python 3.8)
-   Note: recent versions, pkg_resources must be replaced by setuptools. It is adviced to use the low_level.py    
-
-version without pkg_resources.
+   Note: recent versions, pkg_resources must be replaced by setuptools. It is adviced to use the low_level.py version without pkg_resources.
 
 
 
